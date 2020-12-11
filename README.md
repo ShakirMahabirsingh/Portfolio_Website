@@ -16,6 +16,7 @@ Since we decided on 4 countries to analyze, it would require 4 seperate models.
 After testing a couple linear regression models for performance, then choosing the best ones for each country, I visualized our findings. We matched these findings with 
 real life Covid social measures and was able to suggest accurate and interesting inferences. This analysis is covered in the Research Paper. 
 
+![Covid Deaths by Country](/images/covid_dt_bar.png)
 
 
 ##  [ETL Database Exercises](https://github.com/ShakirMahabirsingh/Projects)
